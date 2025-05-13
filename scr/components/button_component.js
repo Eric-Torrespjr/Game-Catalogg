@@ -1,5 +1,5 @@
 // src/components/Button.js
-// Componente de botão personalizado
+// Componente do botão personalizado
 import React from 'react';
 import { TouchableOpacity, Text, StyleSheet } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';

@@ -1,3 +1,4 @@
+##Estrututura do expo criada para teste ##
 import { Link, Stack } from 'expo-router';
 import { StyleSheet } from 'react-native';
 

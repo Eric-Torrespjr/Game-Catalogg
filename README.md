@@ -1,4 +1,4 @@
-ame Catalog - React Native App 📱🎮
+Game Catalog -  📱🎮
 Um catálogo de jogos mobile desenvolvido em React Native com:
 
 Navegação entre telas
@@ -37,11 +37,10 @@ Instale as dependências
 
 bash
 npm install  
-# ou  
-yarn install  
-Execute o app
 
-bash
+yarn install  
+
+Execute o app
 expo start  
 Escaneie o QR code com o Expo Go (CELULAR)
 
